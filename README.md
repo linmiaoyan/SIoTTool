@@ -3,7 +3,7 @@
 
 # 注意事项
 
-- 0.2版本（基本功能+界面美化）：可以在win10及部分win7运行，不能win7的32位系统运行。
+可以在win10及部分win7运行，不能win7的32位系统运行。
 
 - 报错1：“无法定位程序输入点ucrtbase.abort于动态链接库api-ms-win-crt-runtime-l1-1-0.dll上”
 - 解决1：进入微软官网进行下载运行时所需VC++组件，地址：https://www.microsoft.com/zh-cn/download/details.aspx?id=48145
@@ -12,3 +12,5 @@
 
 ![软件运行截图](https://github.com/linmiaoyan/SIoTTool/blob/master/screenshot.png)
 
+# 更新日志
+- 0.2版本（基本功能+界面美化）
