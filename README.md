@@ -3,6 +3,6 @@
 
 # 界面截图
 
-(https://github.com/linmiaoyan/SIoTTool/blob/master/screenshot.png)
+![软件运行截图](https://github.com/linmiaoyan/SIoTTool/blob/master/screenshot.png)
 
-https://github.com/linmiaoyan/SIoTTool/blob/master/screenshot.png
+
